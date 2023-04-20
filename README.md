@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 🔭 Atualmente estou fazendo faculdade de Engenharia da Computação</br>
