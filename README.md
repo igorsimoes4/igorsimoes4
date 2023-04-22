@@ -2,7 +2,7 @@
 
 
 🔭 Atualmente estou fazendo faculdade de Engenharia da Computação</br>
-🌱 Atualmente estou aprendendo: php com framework laravel</br>
+🌱 Atualmente estou aprofundando os conhecimentos: php com framework laravel</br>
 </br>
 
 <div align="center">
