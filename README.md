@@ -28,11 +28,11 @@
   </div>
 
 
-  <hr/><h3>Entre em contato:</h3>
-  
-  <div align="center"></br>
-  <a href="mailto:igor01silveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-silveira-909068255/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+  <hr/>
+  <h3 align="center">Entre em contato:</h3>
+  <div align="center">
+    <a href="mailto:igor01silveira@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/igor-silveira-909068255/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  </div>
 <hr/>
 
