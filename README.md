@@ -13,16 +13,18 @@
   
   <hr/><h3>Principais Linguagens:</h3>
   
+  
+  
   <div align="center">
     <h3>FrontEnd:</h3>
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-    <img alt="AngularJS" src="https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white" />
+    <img alt="HTML5" height="40" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="CSS3" height="40" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="Bootstrap" height="40"height="80" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+    <img alt="AngularJS" height="40" src="https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white" />
     <br>
     <h3>BackEnd:</h3>
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    <img alt="PHP" height="40" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img alt="Laravel" height="40" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   </div>
 
 
