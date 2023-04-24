@@ -1,8 +1,8 @@
 <h2>< Olá, meu nome é Igor Simões /> 👋</h2> 
 
-
-🔭 Atualmente estou fazendo faculdade de Engenharia da Computação</br>
-🌱 Atualmente estou aprofundando os conhecimentos: php com framework laravel</br>
+<h4>
+🔭 Atualmente, estou matriculado na faculdade de Engenharia da Computação e, ao mesmo tempo, estou aprimorando minhas habilidades em PHP com o framework Laravel.
+</h4>
 </br>
 
 <div align="center">
@@ -11,7 +11,7 @@
   <img style="margin:15em;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsimoes4&layout=compact&langs_count=7&theme=transparent" />
 </div>
   
-  <hr/><h3>Principais Linguagens:</h3>
+  <hr/>
   
   
   
