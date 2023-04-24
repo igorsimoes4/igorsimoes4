@@ -1,4 +1,4 @@
-##Olá, meu nome é Igor Simões 
+<h2>< Olá, meu nome é Igor Simões /> 👋</h2> 
 
 
 🔭 Atualmente estou fazendo faculdade de Engenharia da Computação</br>
