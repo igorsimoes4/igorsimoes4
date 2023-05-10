@@ -1,8 +1,19 @@
-<h2>< Olá, meu nome é Igor Simões /> 👋</h2> 
+<h2>< Olá, meu nome é Igor Simões Silveira /> 👋</h2> 
 
-<h4>
-🔭 Atualmente, estou matriculado na faculdade de Engenharia da Computação e, ao mesmo tempo, estou aprimorando minhas habilidades em PHP com o framework Laravel.
-</h4>
+<div>
+  <p>
+        Sou especialista em diversas áreas da informática. Com vasta experiência em desenvolvimento de projetos web, programação, manutenção de computadores e infraestrutura de rede, sou capaz de executar com habilidade diversas linguagens, incluindo HTML5, CSS3, JavaScript, SASS, SQL, MYSQL, JAVASCRIPT, BOOTSTRAP 3, BOOTSTRAP 4, WORDPRESS, PHP e Framework Laravel.
+  </p>
+  <p>
+    Além de minha vasta experiência em diversas áreas da informática, é importante destacar que estou em constante aprimoramento acadêmico e profissional. Atualmente, estou matriculado na faculdade de Engenharia da Computação, onde tenho tido a oportunidade de adquirir conhecimentos teóricos e práticos que complementam a minha expertise.
+  </p>
+  <p>
+  Também estou dedicando meu tempo livre para aprimorar minhas habilidades em PHP com o framework Laravel, que é uma das tecnologias mais utilizadas atualmente no desenvolvimento de aplicações web. Acredito que esse constante processo de atualização e aprendizado é essencial para oferecer soluções inovadoras e eficientes aos meus clientes.
+  </p>
+  <p>
+  Portanto, se você está em busca de um profissional em informática que alia experiência prática com conhecimentos teóricos atualizados, pode contar comigo. Estou sempre em busca de novos desafios e oportunidades para colocar em prática minhas habilidades e conhecimentos em prol do sucesso dos meus clientes.
+  </p>
+</div>
 </br>
 
 <div align="center">
