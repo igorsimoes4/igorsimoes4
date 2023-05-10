@@ -31,11 +31,20 @@
     <img alt="HTML5" height="40" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS3" height="40" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img alt="Bootstrap" height="40"height="80" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+    <img alt="Bootstrap 3" height="40" src="https://img.shields.io/badge/-Bootstrap%203-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+    <img alt="Bootstrap 4" height="40" src="https://img.shields.io/badge/-Bootstrap%204-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
     <img alt="AngularJS" height="40" src="https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white" />
+    <img alt="JavaScript" height="40" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img alt="SASS" height="40" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <br>
     <h3>BackEnd:</h3>
     <img alt="PHP" height="40" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
     <img alt="Laravel" height="40" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    <img alt="WordPress" height="40" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+    <br>
+    <h3>Banco de Dados:</h3>
+    <img alt="SQL" height="40" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="MYSQL" height="40" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   </div>
 
 
