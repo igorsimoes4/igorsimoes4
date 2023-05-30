@@ -2,16 +2,16 @@
 
 <div>
   <p>
-        Sou especialista em diversas áreas da informática. Com vasta experiência em desenvolvimento de projetos web, programação, manutenção de computadores e infraestrutura de rede, sou capaz de executar com habilidade diversas linguagens, incluindo HTML5, CSS3, JavaScript, SASS, SQL, MYSQL, JAVASCRIPT, BOOTSTRAP 3, BOOTSTRAP 4, WORDPRESS, PHP e Framework Laravel.
+    Estou iniciando na área da informática e tenho interesse em me especializar em diversas áreas. Tenho conhecimentos básicos em desenvolvimento de projetos web, programação, manutenção de computadores e infraestrutura de rede. Estou aprendendo a utilizar linguagens como HTML5, CSS3, JavaScript, SASS, SQL, MYSQL, JAVASCRIPT, BOOTSTRAP 3, BOOTSTRAP 4, WORDPRESS, PHP e o Framework Laravel.
   </p>
   <p>
-    Além de minha vasta experiência em diversas áreas da informática, é importante destacar que estou em constante aprimoramento acadêmico e profissional. Atualmente, estou matriculado na faculdade de Engenharia da Computação, onde tenho tido a oportunidade de adquirir conhecimentos teóricos e práticos que complementam a minha expertise.
+    Estou em busca de aprimoramento acadêmico e profissional. Atualmente, estou matriculado na faculdade de Engenharia da Computação, onde estou adquirindo conhecimentos teóricos e práticos que complementam minha formação inicial.
   </p>
   <p>
-  Também estou dedicando meu tempo livre para aprimorar minhas habilidades em PHP com o framework Laravel, que é uma das tecnologias mais utilizadas atualmente no desenvolvimento de aplicações web. Acredito que esse constante processo de atualização e aprendizado é essencial para oferecer soluções inovadoras e eficientes aos meus clientes.
+    Também estou dedicando meu tempo livre para aprimorar minhas habilidades em PHP, especialmente com o framework Laravel, que é uma tecnologia muito utilizada no desenvolvimento de aplicações web atualmente. Acredito que o constante processo de aprendizado e atualização é fundamental para oferecer soluções inovadoras e eficientes aos futuros clientes.
   </p>
   <p>
-  Portanto, se você está em busca de um profissional em informática que alia experiência prática com conhecimentos teóricos atualizados, pode contar comigo. Estou sempre em busca de novos desafios e oportunidades para colocar em prática minhas habilidades e conhecimentos em prol do sucesso dos meus clientes.
+    Portanto, se você está procurando um profissional em informática que está no início da carreira, mas que está comprometido em adquirir novos conhecimentos e enfrentar desafios, pode contar comigo. Estou ansioso por oportunidades para colocar em prática minhas habilidades e conhecimentos, buscando o sucesso dos meus clientes.
   </p>
 </div>
 </br>
