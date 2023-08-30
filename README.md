@@ -1,16 +1,16 @@
 <h2>< Olá, meu nome é Igor Simões Silveira /> 👋</h2> 
 
 <div>
-  <p>
+  <p align="justify">
     Estou iniciando na área da informática e tenho interesse em me especializar em diversas áreas. Tenho conhecimentos básicos em desenvolvimento de projetos web, programação, manutenção de computadores e infraestrutura de rede. Estou aprendendo a utilizar linguagens como HTML5, CSS3, JavaScript, SASS, SQL, MYSQL, JAVASCRIPT, BOOTSTRAP 3, BOOTSTRAP 4, WORDPRESS, PHP e o Framework Laravel.
   </p>
-  <p>
+  <p align="justify">
     Estou em busca de aprimoramento acadêmico e profissional. Atualmente, estou matriculado na faculdade de Engenharia da Computação, onde estou adquirindo conhecimentos teóricos e práticos que complementam minha formação inicial.
   </p>
-  <p>
+  <p align="justify">
     Também estou dedicando meu tempo livre para aprimorar minhas habilidades em PHP, especialmente com o framework Laravel, que é uma tecnologia muito utilizada no desenvolvimento de aplicações web atualmente. Acredito que o constante processo de aprendizado e atualização é fundamental para oferecer soluções inovadoras e eficientes aos futuros clientes.
   </p>
-  <p>
+  <p align="justify">
     Portanto, se você está procurando um profissional em informática que está no início da carreira, mas que está comprometido em adquirir novos conhecimentos e enfrentar desafios, pode contar comigo. Estou ansioso por oportunidades para colocar em prática minhas habilidades e conhecimentos, buscando o sucesso dos meus clientes.
   </p>
 </div>
