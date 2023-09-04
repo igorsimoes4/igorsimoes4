@@ -11,11 +11,13 @@
     </a>
 </p>
 
-## Sobre
+<hr/>
+
+<h2>Sobre</h2>
 
 <div>
   <p align="justify">
-    Estou iniciando na área da informática e tenho interesse em me especializar em diversas áreas. Tenho conhecimentos básicos em desenvolvimento de projetos web, programação, manutenção de computadores e infraestrutura de rede. Estou aprendendo a utilizar linguagens como HTML5, CSS3, JavaScript, SASS, SQL, MYSQL, JAVASCRIPT, BOOTSTRAP 3, BOOTSTRAP 4, WORDPRESS, PHP e o Framework Laravel.
+    Estou iniciando na área da informática e tenho interesse em me especializar em diversas áreas. Tenho conhecimentos básicos em desenvolvimento de projetos web, programação, manutenção de computadores e infraestrutura de rede. Estou aprendendo a utilizar linguagens como HTML5, CSS3, JavaScript, SASS, SQL, MYSQL, BOOTSTRAP 3, BOOTSTRAP 4, WORDPRESS, PHP e o Framework Laravel.
   </p>
   <p align="justify">
     Estou em busca de aprimoramento acadêmico e profissional. Atualmente, estou matriculado na faculdade de Engenharia da Computação, onde estou adquirindo conhecimentos teóricos e práticos que complementam minha formação inicial.
