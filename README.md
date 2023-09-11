@@ -1,6 +1,6 @@
 <h2 align="center"> Olá 👋 , meu nome é Igor Simões Silveira  </h2> 
 
-- 🌱 Atualmente, estou aprendendo **NodeJS** e me aprofundando em **PHP/Laravel**
+- 🌱 Atualmente, estou me aprofundando em **PHP/Laravel** e **NodeJS** 
 - 📫 Como entrar em contato comigo: **igor01silveira@gmail.com**
 - 👨🏻‍💻 Meu portfólio <a href="https://portifolio-igorsimoes4.vercel.app" target="_blank">portifolio-igorsimoes4.vercel.app</a>
 
