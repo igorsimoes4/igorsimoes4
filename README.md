@@ -1,35 +1,37 @@
-<h2 align="center"> Olá 👋 , meu nome é Igor Simões Silveira  </h2> 
+<h2 align="center">Hello 👋, my name is Igor Simões Silveira</h2>
 
-- 🌱 Atualmente, estou me aprofundando em **PHP/Laravel** e **NodeJS** 
-- 📫 Como entrar em contato comigo: **igor01silveira@gmail.com**
-- 👨🏻‍💻 Meu portfólio <a href="https://portifolio-igorsimoes4.vercel.app" target="_blank">portifolio-igorsimoes4.vercel.app</a>
+- 🌱 Currently, I'm diving into **PHP/Laravel** and **NodeJS**
+- 📫 How to reach me: **igor01silveira@gmail.com**
+- 👨🏻‍💻 My portfolio <a href="https://portifolio-igorsimoes4.vercel.app" target="_blank">portifolio-igorsimoes4.vercel.app</a>
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/igorsimoesdasilveira/" target="blank">
+    <a href="https://www.linkedin.com/in/igorsimoesdasilveira/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" />    
     </a>
 </p>
 
 <hr/>
 
-<h2>Sobre</h2>
+<h2>About Me</h2>
+
 
 <div>
   <p align="justify">
-    Estou iniciando na área da informática e tenho interesse em me especializar em diversas áreas. Tenho conhecimentos básicos em desenvolvimento de projetos web, programação, manutenção de computadores e infraestrutura de rede. Estou aprendendo a utilizar linguagens como HTML5, CSS3, JavaScript, SASS, SQL, MYSQL, BOOTSTRAP 3, BOOTSTRAP 4, WORDPRESS, PHP e o Framework Laravel.
+    I am just starting out in the field of computer science and have a keen interest in specializing in various areas. I have basic knowledge in web project development, programming, computer maintenance, and network infrastructure. I am learning to use languages such as HTML5, CSS3, JavaScript, SASS, SQL, MYSQL, BOOTSTRAP 3, BOOTSTRAP 4, WORDPRESS, PHP, and the Laravel framework.
   </p>
   <p align="justify">
-    Estou em busca de aprimoramento acadêmico e profissional. Atualmente, estou matriculado na faculdade de Engenharia da Computação, onde estou adquirindo conhecimentos teóricos e práticos que complementam minha formação inicial.
+    I am pursuing academic and professional improvement. Currently, I am enrolled in the Computer Engineering program at the university, where I am gaining both theoretical and practical knowledge to complement my initial education.
   </p>
   <p align="justify">
-    Também estou dedicando meu tempo livre para aprimorar minhas habilidades em PHP, especialmente com o framework Laravel, que é uma tecnologia muito utilizada no desenvolvimento de aplicações web atualmente. Acredito que o constante processo de aprendizado e atualização é fundamental para oferecer soluções inovadoras e eficientes aos futuros clientes.
+    I am also dedicating my free time to enhance my skills in PHP, especially with the Laravel framework, which is widely used in web application development today. I believe that the ongoing process of learning and staying updated is essential to provide innovative and efficient solutions to future clients.
   </p>
   <p align="justify">
-    Portanto, se você está procurando um profissional em informática que está no início da carreira, mas que está comprometido em adquirir novos conhecimentos e enfrentar desafios, pode contar comigo. Estou ansioso por oportunidades para colocar em prática minhas habilidades e conhecimentos, buscando o sucesso dos meus clientes.
+    Therefore, if you are looking for a computer professional who is at the beginning of their career but is committed to acquiring new knowledge and taking on challenges, you can count on me. I am eager for opportunities to put my skills and knowledge into practice, aiming for the success of my clients.
   </p>
 </div>
-</br>
+<br/>
+
 
 <div align="center">
   <a href="https://github.com/igorsimoes4">
@@ -64,11 +66,11 @@
     <img alt="Laravel" height="40" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
     <img alt="WordPress" height="40" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
     <br> -->
-    <h3>Banco de Dados:</h3>
+   <h3>Database:</h3>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
     </p>
-    <h3>Outros Programas:</h3>
+   <h3>Other Programs:</h3>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=vscode,figma,ps,androidstudio,git,github,githubactions,gitlab,postman" />
     </p>
