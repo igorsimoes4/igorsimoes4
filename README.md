@@ -2,7 +2,7 @@
 
 - 🌱 Currently, I'm diving into **PHP/Laravel** and **NodeJS**
 - 📫 How to reach me: **igor01silveira@gmail.com**
-- 👨🏻‍💻 My portfolio <a href="https://portifolio-igorsimoes4.vercel.app" target="_blank">portifolio-igorsimoes4.vercel.app</a>
+- 👨🏻‍💻 <a href="https://portifolio-igorsimoes4.vercel.app" target="_blank">My portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
